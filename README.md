@@ -8,6 +8,7 @@ Follow the steps below to set up and run the Online Quiz Maker project on your l
             git clone < REPOSITORY URL >
 
 ### Step 2: go to the project directory
+            cd < PROJECT DIRECTORY NAME >
 
 ### Step 3: navigate to backend
             cd backend
