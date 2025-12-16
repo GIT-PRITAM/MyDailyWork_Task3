@@ -7,33 +7,35 @@ Follow the steps below to set up and run the Online Quiz Maker project on your l
 ### Step 1: Clone the Repository
             git clone < REPOSITORY URL >
 
-### Step 2: navigate to backend
+### Step 2: go to the project directory
+
+### Step 3: navigate to backend
             cd backend
             
-### Step 3: run dependencies
+### Step 4: run dependencies
             npm install
 
-### Step 4: set environment variables
+### Step 5: set environment variables
             example :
             PORT=< ENTER PORT >
             MONGO_URI=<ENTER YOUR MONGODB DATABASE URL>
 
-### Step 5: start the backend
+### Step 6: start the backend
             npm start
 
-### Step 6: go back to root directory
+### Step 7: go back to root directory
             cd ..
 
-### Step 7: navigate to frontend
+### Step 8: navigate to frontend
             cd frontend
 
-### Step 8: install dependencies
+### Step 9: install dependencies
             npm install
 
-### Step 9: set environment variable
+### Step 10: set environment variable
             REACT_APP_API_URL=< ENTER YOUR BACKEND URL >
 
-### Step 10: start the frontend
+### Step 11: start the frontend
             npm start
 
             
